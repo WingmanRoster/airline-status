@@ -1,4 +1,8 @@
 {
-  "CJ": "test",
-  "EI": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
+  {
+    "EI": {
+      "message": "Please update",
+      "version": "2.7.0"
+    }
+  }
 }
