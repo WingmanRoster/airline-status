@@ -1,5 +1,9 @@
 {
-  "EI": {
+  "CJ": {
+    "message": "Please update",
+    "version": "2.7.0"
+  },
+  "EBI": {
     "message": "Please update",
     "version": "2.7.0"
   }
